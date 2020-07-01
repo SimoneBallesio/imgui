@@ -2,8 +2,10 @@
 .DS_Store
 
 ## build folders
-bin
-build
+**/Binaries
+**/Build
+**/bin
+**/build
 
 ## Dear ImGui artifacts
 imgui.ini
